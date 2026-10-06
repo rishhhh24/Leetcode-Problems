@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T09:07:05.752Z",
+  "updatedAt": "2026-10-06T09:07:37.655Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,6 +63,26 @@
           "path": "Leetcode Problems/0006-zigzag-conversion/0006-zigzag-conversion.py",
           "sha": "bcb74d85da4a509940f1c79a980eb49b0cddd700",
           "lastSyncedAt": "2026-10-06T09:06:36.500Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "Leetcode Problems/0020-valid-parentheses/",
+      "readmePath": "Leetcode Problems/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0020-valid-parentheses.py",
+          "path": "Leetcode Problems/0020-valid-parentheses/0020-valid-parentheses.py",
+          "sha": "45dd6f34430b69f97e11fc78fe7f7c2c5e4e0ec7",
+          "lastSyncedAt": "2026-10-06T09:07:37.655Z"
         }
       ]
     },
