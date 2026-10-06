@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:10:33.395Z",
+  "updatedAt": "2026-10-06T09:10:39.241Z",
   "problems": [
     {
       "frontendId": "3",
@@ -222,7 +222,7 @@
           "filename": "2461-maximum-sum-of-distinct-subarrays-with-length-k.c",
           "path": "Leetcode Problems/2461-maximum-sum-of-distinct-subarrays-with-length-k/2461-maximum-sum-of-distinct-subarrays-with-length-k.c",
           "sha": "1d88fc4573b627c5a48549fd970ff41c9a5b13a0",
-          "lastSyncedAt": "2026-10-06T09:06:00.006Z"
+          "lastSyncedAt": "2026-10-06T09:10:39.241Z"
         }
       ]
     },
