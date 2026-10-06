@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-06T09:03:47.200Z",
+  "updatedAt": "2026-10-06T09:09:07.820Z",
   "problems": [
     {
       "frontendId": "461",
@@ -22,7 +22,7 @@
           "filename": "0461-hamming-distance.c",
           "path": "Leetcode Problems/0461-hamming-distance/0461-hamming-distance.c",
           "sha": "2317f2a8862890fed785f512f87f856ac3440d8f",
-          "lastSyncedAt": "2026-10-06T09:03:47.200Z"
+          "lastSyncedAt": "2026-10-06T09:09:07.820Z"
         }
       ]
     }
