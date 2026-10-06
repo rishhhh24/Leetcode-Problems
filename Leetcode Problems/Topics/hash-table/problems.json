@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:09:58.977Z",
+  "updatedAt": "2026-10-06T09:10:33.395Z",
   "problems": [
     {
       "frontendId": "3",
@@ -242,7 +242,7 @@
           "filename": "2653-sliding-subarray-beauty.c",
           "path": "Leetcode Problems/2653-sliding-subarray-beauty/2653-sliding-subarray-beauty.c",
           "sha": "bba0078e02d080e01c33e093cdd2b5eb25b0357c",
-          "lastSyncedAt": "2026-10-06T09:05:51.349Z"
+          "lastSyncedAt": "2026-10-06T09:10:33.395Z"
         }
       ]
     }
