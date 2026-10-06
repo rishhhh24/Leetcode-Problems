@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-06T09:04:43.202Z",
+  "updatedAt": "2026-10-06T09:07:15.688Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "Leetcode Problems/0002-add-two-numbers/",
+      "readmePath": "Leetcode Problems/0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0002-add-two-numbers.py",
+          "path": "Leetcode Problems/0002-add-two-numbers/0002-add-two-numbers.py",
+          "sha": "421c1c06edd58f7c6e7262eec942941220684dd3",
+          "lastSyncedAt": "2026-10-06T09:07:15.688Z"
+        }
+      ]
+    },
     {
       "frontendId": "141",
       "title": "Linked List Cycle",
