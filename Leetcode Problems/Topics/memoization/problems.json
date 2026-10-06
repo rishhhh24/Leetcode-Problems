@@ -4,7 +4,7 @@
     "slug": "memoization",
     "name": "Memoization"
   },
-  "updatedAt": "2026-10-06T09:03:59.707Z",
+  "updatedAt": "2026-10-06T09:09:17.154Z",
   "problems": [
     {
       "frontendId": "139",
@@ -22,7 +22,7 @@
           "filename": "0139-word-break.c",
           "path": "Leetcode Problems/0139-word-break/0139-word-break.c",
           "sha": "8dadf300c21588a719d88b2e67cb241b84441e29",
-          "lastSyncedAt": "2026-10-06T09:03:59.707Z"
+          "lastSyncedAt": "2026-10-06T09:09:17.154Z"
         }
       ]
     }
