@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:03:33.394Z",
+  "updatedAt": "2026-10-06T09:03:53.307Z",
   "problems": [
     {
       "frontendId": "127",
@@ -63,6 +63,26 @@
           "path": "Leetcode Problems/0202-happy-number/0202-happy-number.c",
           "sha": "6ea4935c521f15110f4a4bd5f11dd6bdb1baf16b",
           "lastSyncedAt": "2026-10-06T09:03:33.394Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "Leetcode Problems/0290-word-pattern/",
+      "readmePath": "Leetcode Problems/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0290-word-pattern.c",
+          "path": "Leetcode Problems/0290-word-pattern/0290-word-pattern.c",
+          "sha": "8ffbb51e0d3e523330dceb6fcb0c01ada66cd10d",
+          "lastSyncedAt": "2026-10-06T09:03:53.307Z"
         }
       ]
     }
