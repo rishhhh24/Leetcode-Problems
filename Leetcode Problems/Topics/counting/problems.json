@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-06T09:04:22.160Z",
+  "updatedAt": "2026-10-06T09:09:31.861Z",
   "problems": [
     {
       "frontendId": "169",
@@ -22,7 +22,7 @@
           "filename": "0169-majority-element.c",
           "path": "Leetcode Problems/0169-majority-element/0169-majority-element.c",
           "sha": "c9af6afa064926e8a53e1bc368002c8cd1bdd06d",
-          "lastSyncedAt": "2026-10-06T09:04:22.160Z"
+          "lastSyncedAt": "2026-10-06T09:09:31.861Z"
         }
       ]
     }
