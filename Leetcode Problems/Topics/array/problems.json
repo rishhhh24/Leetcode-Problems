@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T09:06:08.324Z",
+  "updatedAt": "2026-10-06T09:06:19.698Z",
   "problems": [
     {
       "frontendId": "15",
@@ -23,6 +23,26 @@
           "path": "Leetcode Problems/0015-3sum/0015-3sum.c",
           "sha": "4ce42e81b8d7076e3e5042e3f92ebdae4102624d",
           "lastSyncedAt": "2026-10-06T09:02:53.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "Leetcode Problems/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "Leetcode Problems/0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0026-remove-duplicates-from-sorted-array.c",
+          "path": "Leetcode Problems/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.c",
+          "sha": "7a2f6b2fd4fb3afd3748adbf7cef334808fa3f14",
+          "lastSyncedAt": "2026-10-06T09:06:19.698Z"
         }
       ]
     },
