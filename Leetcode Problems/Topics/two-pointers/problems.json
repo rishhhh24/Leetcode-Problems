@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T09:11:09.518Z",
+  "updatedAt": "2026-10-06T09:11:43.628Z",
   "problems": [
     {
       "frontendId": "5",
@@ -82,7 +82,7 @@
           "filename": "0027-remove-element.py",
           "path": "Leetcode Problems/0027-remove-element/0027-remove-element.py",
           "sha": "924bf61479ffdbda1ccb67597733bbf057d8f6ac",
-          "lastSyncedAt": "2026-10-06T09:07:29.592Z"
+          "lastSyncedAt": "2026-10-06T09:11:43.628Z"
         }
       ]
     },
