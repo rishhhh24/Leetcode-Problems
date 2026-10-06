@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-10-06T09:09:51.455Z",
+  "updatedAt": "2026-10-06T09:10:11.418Z",
   "problems": [
     {
       "frontendId": "3",
@@ -82,7 +82,7 @@
           "filename": "1004-max-consecutive-ones-iii.c",
           "path": "Leetcode Problems/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.c",
           "sha": "d3c2ae420b48ca79d10b5f65de107cdf7ff593f3",
-          "lastSyncedAt": "2026-10-06T09:05:19.446Z"
+          "lastSyncedAt": "2026-10-06T09:10:11.418Z"
         }
       ]
     },
