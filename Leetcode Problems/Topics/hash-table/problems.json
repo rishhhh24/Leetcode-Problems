@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:04:43.202Z",
+  "updatedAt": "2026-10-06T09:04:55.361Z",
   "problems": [
+    {
+      "frontendId": "30",
+      "title": "Substring with Concatenation of All Words",
+      "slug": "substring-with-concatenation-of-all-words",
+      "problemName": "0030-substring-with-concatenation-of-all-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+      "folderPath": "Leetcode Problems/0030-substring-with-concatenation-of-all-words/",
+      "readmePath": "Leetcode Problems/0030-substring-with-concatenation-of-all-words/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0030-substring-with-concatenation-of-all-words.c",
+          "path": "Leetcode Problems/0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.c",
+          "sha": "557bb69b7b318d190f29a57ccf327f7f19caef37",
+          "lastSyncedAt": "2026-10-06T09:04:55.361Z"
+        }
+      ]
+    },
     {
       "frontendId": "127",
       "title": "Word Ladder",
