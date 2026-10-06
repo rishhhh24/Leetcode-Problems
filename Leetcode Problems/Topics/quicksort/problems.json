@@ -4,7 +4,7 @@
     "slug": "quicksort",
     "name": "Quicksort"
   },
-  "updatedAt": "2026-10-06T09:06:08.324Z",
+  "updatedAt": "2026-10-06T09:10:46.340Z",
   "problems": [
     {
       "frontendId": "56",
@@ -22,7 +22,7 @@
           "filename": "0056-merge-intervals.c",
           "path": "Leetcode Problems/0056-merge-intervals/0056-merge-intervals.c",
           "sha": "83f11bc7735ccce070585351cfe458b4786e27ab",
-          "lastSyncedAt": "2026-10-06T09:06:08.324Z"
+          "lastSyncedAt": "2026-10-06T09:10:46.340Z"
         }
       ]
     }
