@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T09:05:08.243Z",
+  "updatedAt": "2026-10-06T09:05:19.446Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "Leetcode Problems/0169-majority-element/0169-majority-element.c",
           "sha": "c9af6afa064926e8a53e1bc368002c8cd1bdd06d",
           "lastSyncedAt": "2026-10-06T09:04:22.160Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "Leetcode Problems/1004-max-consecutive-ones-iii/",
+      "readmePath": "Leetcode Problems/1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "1004-max-consecutive-ones-iii.c",
+          "path": "Leetcode Problems/1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.c",
+          "sha": "d3c2ae420b48ca79d10b5f65de107cdf7ff593f3",
+          "lastSyncedAt": "2026-10-06T09:05:19.446Z"
         }
       ]
     }
