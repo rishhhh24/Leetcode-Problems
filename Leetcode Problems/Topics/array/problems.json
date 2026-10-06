@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T09:06:19.698Z",
+  "updatedAt": "2026-10-06T09:06:27.931Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "Leetcode Problems/0056-merge-intervals/0056-merge-intervals.c",
           "sha": "83f11bc7735ccce070585351cfe458b4786e27ab",
           "lastSyncedAt": "2026-10-06T09:06:08.324Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "Leetcode Problems/0088-merge-sorted-array/",
+      "readmePath": "Leetcode Problems/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0088-merge-sorted-array.c",
+          "path": "Leetcode Problems/0088-merge-sorted-array/0088-merge-sorted-array.c",
+          "sha": "1ae9fd42ec01610f80a318ac60a3eb764ea46563",
+          "lastSyncedAt": "2026-10-06T09:06:27.931Z"
         }
       ]
     },
