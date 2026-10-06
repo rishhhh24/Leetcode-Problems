@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:06:00.006Z",
+  "updatedAt": "2026-10-06T09:07:05.752Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "Leetcode Problems/0003-longest-substring-without-repeating-characters/",
+      "readmePath": "Leetcode Problems/0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0003-longest-substring-without-repeating-characters.py",
+          "path": "Leetcode Problems/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
+          "sha": "3abd5faaa0a7b2144cb6dad765ab5b109e247bcc",
+          "lastSyncedAt": "2026-10-06T09:07:05.752Z"
+        }
+      ]
+    },
     {
       "frontendId": "30",
       "title": "Substring with Concatenation of All Words",
