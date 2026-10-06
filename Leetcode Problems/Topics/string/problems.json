@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T09:05:08.243Z",
+  "updatedAt": "2026-10-06T09:06:36.500Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "Leetcode Problems/0006-zigzag-conversion/",
+      "readmePath": "Leetcode Problems/0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0006-zigzag-conversion.py",
+          "path": "Leetcode Problems/0006-zigzag-conversion/0006-zigzag-conversion.py",
+          "sha": "bcb74d85da4a509940f1c79a980eb49b0cddd700",
+          "lastSyncedAt": "2026-10-06T09:06:36.500Z"
+        }
+      ]
+    },
     {
       "frontendId": "30",
       "title": "Substring with Concatenation of All Words",
