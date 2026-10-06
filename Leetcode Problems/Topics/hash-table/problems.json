@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:08:44.750Z",
+  "updatedAt": "2026-10-06T09:08:51.215Z",
   "problems": [
     {
       "frontendId": "3",
@@ -82,7 +82,7 @@
           "filename": "0127-word-ladder.c",
           "path": "Leetcode Problems/0127-word-ladder/0127-word-ladder.c",
           "sha": "567f93e898dc07028476c74fff30c58b55a248eb",
-          "lastSyncedAt": "2026-10-06T09:03:17.842Z"
+          "lastSyncedAt": "2026-10-06T09:08:51.215Z"
         }
       ]
     },
