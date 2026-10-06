@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:03:59.707Z",
+  "updatedAt": "2026-10-06T09:04:22.160Z",
   "problems": [
     {
       "frontendId": "127",
@@ -63,6 +63,26 @@
           "path": "Leetcode Problems/0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.c",
           "sha": "c5fd4d43cf9b682a7f03418d4cb7c306be02493d",
           "lastSyncedAt": "2026-10-06T09:03:01.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "Leetcode Problems/0169-majority-element/",
+      "readmePath": "Leetcode Problems/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0169-majority-element.c",
+          "path": "Leetcode Problems/0169-majority-element/0169-majority-element.c",
+          "sha": "c9af6afa064926e8a53e1bc368002c8cd1bdd06d",
+          "lastSyncedAt": "2026-10-06T09:04:22.160Z"
         }
       ]
     },
