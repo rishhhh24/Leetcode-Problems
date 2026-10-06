@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:09:17.154Z",
+  "updatedAt": "2026-10-06T09:09:43.323Z",
   "problems": [
     {
       "frontendId": "3",
@@ -122,7 +122,7 @@
           "filename": "0141-linked-list-cycle.c",
           "path": "Leetcode Problems/0141-linked-list-cycle/0141-linked-list-cycle.c",
           "sha": "3bf9931c347cd954e092e57711a67d689fb6d0e9",
-          "lastSyncedAt": "2026-10-06T09:04:43.202Z"
+          "lastSyncedAt": "2026-10-06T09:09:43.323Z"
         }
       ]
     },
