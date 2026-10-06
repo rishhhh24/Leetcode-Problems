@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T09:11:48.293Z",
+  "updatedAt": "2026-10-06T09:11:54.901Z",
   "problems": [
     {
       "frontendId": "3",
@@ -63,6 +63,26 @@
           "path": "Leetcode Problems/0006-zigzag-conversion/0006-zigzag-conversion.py",
           "sha": "bcb74d85da4a509940f1c79a980eb49b0cddd700",
           "lastSyncedAt": "2026-10-06T09:11:03.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "Leetcode Problems/0014-longest-common-prefix/",
+      "readmePath": "Leetcode Problems/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0014-longest-common-prefix.py",
+          "path": "Leetcode Problems/0014-longest-common-prefix/0014-longest-common-prefix.py",
+          "sha": "c84693102da4c83797b59e81cd36f96d20526825",
+          "lastSyncedAt": "2026-10-06T09:11:54.901Z"
         }
       ]
     },
