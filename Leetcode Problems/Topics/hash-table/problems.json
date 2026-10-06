@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:05:08.243Z",
+  "updatedAt": "2026-10-06T09:05:51.349Z",
   "problems": [
     {
       "frontendId": "30",
@@ -183,6 +183,26 @@
           "path": "Leetcode Problems/0290-word-pattern/0290-word-pattern.c",
           "sha": "8ffbb51e0d3e523330dceb6fcb0c01ada66cd10d",
           "lastSyncedAt": "2026-10-06T09:03:53.307Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2653",
+      "title": "Sliding Subarray Beauty",
+      "slug": "sliding-subarray-beauty",
+      "problemName": "2653-sliding-subarray-beauty",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-subarray-beauty/",
+      "folderPath": "Leetcode Problems/2653-sliding-subarray-beauty/",
+      "readmePath": "Leetcode Problems/2653-sliding-subarray-beauty/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2653-sliding-subarray-beauty.c",
+          "path": "Leetcode Problems/2653-sliding-subarray-beauty/2653-sliding-subarray-beauty.c",
+          "sha": "bba0078e02d080e01c33e093cdd2b5eb25b0357c",
+          "lastSyncedAt": "2026-10-06T09:05:51.349Z"
         }
       ]
     }
