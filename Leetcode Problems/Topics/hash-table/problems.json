@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T09:09:51.455Z",
+  "updatedAt": "2026-10-06T09:09:58.977Z",
   "problems": [
     {
       "frontendId": "3",
@@ -62,7 +62,7 @@
           "filename": "0049-group-anagrams.c",
           "path": "Leetcode Problems/0049-group-anagrams/0049-group-anagrams.c",
           "sha": "b12f9beb09974db7017c6881b3c00b30f29ce06d",
-          "lastSyncedAt": "2026-10-06T09:05:08.243Z"
+          "lastSyncedAt": "2026-10-06T09:09:58.977Z"
         }
       ]
     },
