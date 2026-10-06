@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T09:05:35.801Z",
+  "updatedAt": "2026-10-06T09:05:44.432Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "Leetcode Problems/0169-majority-element/0169-majority-element.c",
           "sha": "c9af6afa064926e8a53e1bc368002c8cd1bdd06d",
           "lastSyncedAt": "2026-10-06T09:04:22.160Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "643",
+      "title": "Maximum Average Subarray I",
+      "slug": "maximum-average-subarray-i",
+      "problemName": "0643-maximum-average-subarray-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-average-subarray-i/",
+      "folderPath": "Leetcode Problems/0643-maximum-average-subarray-i/",
+      "readmePath": "Leetcode Problems/0643-maximum-average-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0643-maximum-average-subarray-i.c",
+          "path": "Leetcode Problems/0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.c",
+          "sha": "21f6110f5ecb7456c095ed0611ae1fe5f95e3807",
+          "lastSyncedAt": "2026-10-06T09:05:44.432Z"
         }
       ]
     },
