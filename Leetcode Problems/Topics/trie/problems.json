@@ -4,8 +4,28 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-10-06T09:09:17.154Z",
+  "updatedAt": "2026-10-06T09:11:54.901Z",
   "problems": [
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "Leetcode Problems/0014-longest-common-prefix/",
+      "readmePath": "Leetcode Problems/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0014-longest-common-prefix.py",
+          "path": "Leetcode Problems/0014-longest-common-prefix/0014-longest-common-prefix.py",
+          "sha": "c84693102da4c83797b59e81cd36f96d20526825",
+          "lastSyncedAt": "2026-10-06T09:11:54.901Z"
+        }
+      ]
+    },
     {
       "frontendId": "139",
       "title": "Word Break",
