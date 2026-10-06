@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-10-06T09:03:01.542Z",
+  "problems": [
+    {
+      "frontendId": "166",
+      "title": "Fraction to Recurring Decimal",
+      "slug": "fraction-to-recurring-decimal",
+      "problemName": "0166-fraction-to-recurring-decimal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+      "folderPath": "Leetcode Problems/0166-fraction-to-recurring-decimal/",
+      "readmePath": "Leetcode Problems/0166-fraction-to-recurring-decimal/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0166-fraction-to-recurring-decimal.c",
+          "path": "Leetcode Problems/0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.c",
+          "sha": "c5fd4d43cf9b682a7f03418d4cb7c306be02493d",
+          "lastSyncedAt": "2026-10-06T09:03:01.542Z"
+        }
+      ]
+    }
+  ]
+}
