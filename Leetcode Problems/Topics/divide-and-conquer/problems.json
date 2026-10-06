@@ -4,8 +4,28 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-06T09:04:22.160Z",
+  "updatedAt": "2026-10-06T09:06:55.962Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "Leetcode Problems/0004-median-of-two-sorted-arrays/",
+      "readmePath": "Leetcode Problems/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0004-median-of-two-sorted-arrays.py",
+          "path": "Leetcode Problems/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+          "sha": "82870de03556cdb8dd5556c33f65af2df26cc133",
+          "lastSyncedAt": "2026-10-06T09:06:55.962Z"
+        }
+      ]
+    },
     {
       "frontendId": "169",
       "title": "Majority Element",
