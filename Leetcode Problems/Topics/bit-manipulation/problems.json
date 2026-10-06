@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-06T08:46:05.996Z",
-  "problems": []
+  "updatedAt": "2026-10-06T09:03:47.200Z",
+  "problems": [
+    {
+      "frontendId": "461",
+      "title": "Hamming Distance",
+      "slug": "hamming-distance",
+      "problemName": "0461-hamming-distance",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
+      "folderPath": "Leetcode Problems/0461-hamming-distance/",
+      "readmePath": "Leetcode Problems/0461-hamming-distance/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0461-hamming-distance.c",
+          "path": "Leetcode Problems/0461-hamming-distance/0461-hamming-distance.c",
+          "sha": "2317f2a8862890fed785f512f87f856ac3440d8f",
+          "lastSyncedAt": "2026-10-06T09:03:47.200Z"
+        }
+      ]
+    }
+  ]
 }
