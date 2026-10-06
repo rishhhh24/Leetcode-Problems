@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T09:03:17.842Z",
+  "updatedAt": "2026-10-06T09:03:53.307Z",
   "problems": [
     {
       "frontendId": "127",
@@ -43,6 +43,26 @@
           "path": "Leetcode Problems/0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.c",
           "sha": "c5fd4d43cf9b682a7f03418d4cb7c306be02493d",
           "lastSyncedAt": "2026-10-06T09:03:01.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "Leetcode Problems/0290-word-pattern/",
+      "readmePath": "Leetcode Problems/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0290-word-pattern.c",
+          "path": "Leetcode Problems/0290-word-pattern/0290-word-pattern.c",
+          "sha": "8ffbb51e0d3e523330dceb6fcb0c01ada66cd10d",
+          "lastSyncedAt": "2026-10-06T09:03:53.307Z"
         }
       ]
     }
