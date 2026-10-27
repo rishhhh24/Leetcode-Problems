@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-06T09:12:03.845Z",
+  "updatedAt": "2026-10-27T10:03:39.034Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,6 +104,26 @@
           "path": "Leetcode Problems/0014-longest-common-prefix/0014-longest-common-prefix.py",
           "sha": "c84693102da4c83797b59e81cd36f96d20526825",
           "lastSyncedAt": "2026-10-06T09:11:54.901Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "problemName": "0017-letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "folderPath": "Leetcode Problems/0017-letter-combinations-of-a-phone-number/",
+      "readmePath": "Leetcode Problems/0017-letter-combinations-of-a-phone-number/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0017-letter-combinations-of-a-phone-number.c",
+          "path": "Leetcode Problems/0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.c",
+          "sha": "7ba9c0102c2b01ff98c0eb52ee4f6c130357ee32",
+          "lastSyncedAt": "2026-10-27T10:03:39.034Z"
         }
       ]
     },
