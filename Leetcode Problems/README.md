@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 14 | 13 | 3 |
+| 31 | 14 | 14 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 13 |
+| 1 days | 1 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 2 |
 | 2026-09-29 | 4 |
 | 2026-10-06 | 1 |
+| 2026-10-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 53% |
-| Hash Table | 14 | 47% |
-| String | 12 | 40% |
+| Array | 16 | 52% |
+| Hash Table | 15 | 48% |
+| String | 13 | 42% |
 | Sliding Window | 7 | 23% |
 | Two Pointers | 7 | 23% |
-| Math | 5 | 17% |
-| Sorting | 5 | 17% |
-| Binary Search | 2 | 7% |
-| Divide and Conquer | 2 | 7% |
-| Dynamic Programming | 2 | 7% |
+| Math | 5 | 16% |
+| Sorting | 5 | 16% |
+| Binary Search | 2 | 6% |
+| Divide and Conquer | 2 | 6% |
+| Dynamic Programming | 2 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 16 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 1 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -64,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 2 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -77,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
 <!---LeetHub Summary End-->
